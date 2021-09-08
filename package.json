@@ -1,0 +1,24 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "joi": "^13.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/economicactivist/vidly_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/economicactivist/vidly_app/issues"
+  },
+  "homepage": "https://github.com/economicactivist/vidly_app#readme"
+}
