@@ -21,7 +21,6 @@ const Genre = mongoose.model('Genre', new mongoose.Schema({
 }));
 
 
-
 router.get('/', (req, res) => {
   Genre.find().sort({ name: 1 })
     .then(genres => {
